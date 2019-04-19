@@ -86,7 +86,7 @@ them.
 ## Meshing
 
 - [Gmsh](http://gmsh.info) - Three-dimensional finite element mesh generator with pre- and post-processing facilities.
-  (C++, GPL, [GitLab](https://gitlab.onelab.info/gmsh/gmsh))
+  (C++, GPL, [GitLab](https://gitlab.onelab.info/gmsh/gmsh)), documents ([Gmsh Reference Manual](http://www.as.dlr.de/hiocfd/gmsh.pdf), [Gmsh tutorial](https://albertsk.files.wordpress.com/2012/12/gmsh_tutorial.pdf))
 
 - [pygmsh](https://github.com/nschloe/pygmsh) - Python interface for Gmsh.
   (Python, MIT, GitHub)
